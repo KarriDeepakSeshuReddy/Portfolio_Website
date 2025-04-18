@@ -366,10 +366,10 @@ nav ul li a:hover::after{
 
 /* Soft Skills Colors */
 .communication { background-color: #3498DB; }
-.thinking { background-color: #9B59B6; }
+.Adaptability { background-color: #9B59B6; }
 .problem-solving { background-color: #E67E22; }
 .teamwork { background-color: #2ECC71; }
-.leadership { background-color: #E74C3C; }
+.Time Management { background-color: #E74C3C; }
 
 /* Hover Effect */
 .skill-box:hover {
