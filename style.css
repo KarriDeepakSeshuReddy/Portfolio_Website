@@ -349,7 +349,7 @@ nav ul li a:hover::after{
 .css { background-color: #1572B6; }            /* CSS */
 .javascript { background-color: #F7DF1E; color: #000; } /* JavaScript */
 .git { background-color: #F1502F; }            /* Git */
-/* .github { background-color: #333; }           GitHub */
+.github { background-color: #333; }           /*GitHub */
 .ml { background-color: #4CAF50; }             /* Machine Learning */
 .nlp { background-color: #8E44AD; }            /* NLP */
 .dl { background-color: #2C3E50; }            /* Deep Learning */
