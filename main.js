@@ -144,7 +144,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 /* for the job role typing in home page*/
 var typed = new Typed(".text", {
-    strings: ["Web Developer", "Software Engineer", "Machine Learning Engineer."],
+    strings: ["Web Developer", "Machine Learning Enthusiast."],
     typeSpeed: 50,
     backSpeed: 50,
     backDelay: 1000,
